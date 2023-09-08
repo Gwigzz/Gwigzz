@@ -29,3 +29,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&theme=dracula&hide_border=true)
 
 <br/>
+
+[🌐](https://guillaumerigourd.fr)
+[🖂](https://guillaumerigourd.fr/e-portfolio#contact)
