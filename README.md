@@ -30,5 +30,4 @@
 
 <br/>
 
-[🌐](https://guillaumerigourd.fr)
-[🖂](https://guillaumerigourd.fr/e-portfolio#contact)
+<a href="https://guillaumerigourd.fr" target="_blank">🌐website</a> | <a href="https://guillaumerigourd.fr/e-portfolio#contact" target="_blank">🖂contact me</a>
