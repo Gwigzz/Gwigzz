@@ -22,11 +22,11 @@
 
 <br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&theme=highcontrast&hide_border=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&theme=dark&hide_border=true) 
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&theme=highcontrast&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&theme=dark&hide_border=true)
 
 <br/>
 
