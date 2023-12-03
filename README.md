@@ -22,11 +22,15 @@
 
 <br/>
 
+<div align=center>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&theme=dark&hide_border=true) 
+</div>
 
 <br/>
 
+<div align=center>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&theme=dark&hide_border=true)
+</div>
 
 <br/>
 
