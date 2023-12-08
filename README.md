@@ -46,7 +46,7 @@
   
   <body>
       <h4>
-          <a href="https://guillaumerigourd.fr" target="_blank">🌐website</a> | <a href="https://guillaumerigourd.fr/e-portfolio#contact" target="_blank">🖂contact me</a>
+          <a href="https://guillaumerigourd.fr" target="_blank">🌐website</a> | <a href="https://guillaumerigourd.fr#contact" target="_blank">🖂contact me</a>
       </h4>
   </body>
   
