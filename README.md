@@ -95,7 +95,7 @@
 
 <div align=center>
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&theme=dark&hide_border=true) 
+![GRD'S GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&hide_border=true&theme=tokyonight) 
 
 </div>
 
@@ -103,7 +103,7 @@
 
 <div align=center>
     
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&theme=dark&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&hide_border=true&layout=compact&theme=tokyonight)
 
 </div>
 
