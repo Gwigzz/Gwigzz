@@ -123,9 +123,6 @@
 
 </div>
 
-<br/>
-
-
 
 <!DOCTYPE html>
 <html>
@@ -135,13 +132,13 @@
   
   <body>
       <h4>
-          <a href="https://guillaumerigourd.fr" target="_blank">🌐website</a> | <a href="https://guillaumerigourd.fr#contact" target="_blank">🖂contact me</a>
+         <!-- <a href="https://guillaumerigourd.fr" target="_blank">🌐website</a> | <a href="https://guillaumerigourd.fr#contact" target="_blank">🖂contact me</a>-->
       </h4>
   </body>
   
 </html>
 
-<br />
+
 
 <!--<div align="center">-->
 <!--[![website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://guillaumerigourd.fr)-->
