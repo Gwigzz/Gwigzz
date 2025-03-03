@@ -108,7 +108,7 @@
 ---
 
 <br/>
-
+<!--
 <div align=center>
     
 ![GRD'S GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Gwigzz&hide_border=true&theme=tokyonight) 
@@ -122,6 +122,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&hide_border=true&layout=compact&theme=tokyonight)
 
 </div>
+-->
 
 
 <!DOCTYPE html>
