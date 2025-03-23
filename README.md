@@ -115,6 +115,12 @@
 
 </div>
 
+<div align=center>
+    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&hide_border=true&layout=compact&theme=tokyonight)
+
+</div>
+
 <br/>
 
 <div align=center>
@@ -123,11 +129,7 @@
 
 </div>
 -->
-<div align=center>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwigzz&langs_count=20&hide_border=true&layout=compact&theme=tokyonight)
 
-</div>
 
 
 
