@@ -88,7 +88,7 @@
 
 
 <!--</div>-->
----
+
 
 <div align=center>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
@@ -104,7 +104,7 @@
 <!--<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/></a>-->
 </div>
 
-
+---
 
 <!--
 <div align=center>
