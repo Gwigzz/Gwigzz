@@ -8,7 +8,7 @@
 
 ```
 ✋ Hi there
-🙋 My name is Guillaume, I'm a junior Back-End developeur
+🙋 My name is Guillaume, I'm a Back-End developeur
 ```
 
 <!--<br/>-->
